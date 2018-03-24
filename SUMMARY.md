@@ -1,5 +1,6 @@
 # Summary
 
+<<<<<<< HEAD
 * [序言](README.md)
 * [第1章 Node基础](chapter1/README.md)
     * [第1节 安装Node](chapter1/c1s1.md)
@@ -27,3 +28,6 @@
     * [第1节 常用Node框架](chapter6/c1s1.md)
 * [结束](end/README.md)
 
+=======
+* [First Chapter](chapter1.md)
+>>>>>>> 2c2a803dadf2cbfed6b3c2b8b34971b54a42e76c
